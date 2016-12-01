@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreenProtector</string>
+    <string name="action_owner">By Jarvis</string>
+    <string name="descp">This App Contains the code to provide sercurity for desired page by disabling screenshot for that screen</string>
+    <string name="challenge">You Can Try To Take Screenshot</string>
+</resources>
